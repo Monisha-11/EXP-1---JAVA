@@ -1,4 +1,5 @@
-# EXP-1---JAVA
+# EXP-1 -> ARITHMETIC OPERATION
+
 ## AIM :
 TO Write a java program to print the Arithmetic operations
 
